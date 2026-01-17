@@ -2,10 +2,3 @@
     background-color: rgba(44, 62, 80, 1);
     padding: 500px;
 }
-.flex li{
-    display: flex;
-    flex-wrap: nowrap;
-    gap: 20px;
-    align-items: center;
-    justify-content: center;
-}
